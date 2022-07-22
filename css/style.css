@@ -1,0 +1,446 @@
+table
+{
+    border-collapse: collapse;
+    width: 900px;
+}
+
+tr 
+{
+    background-color: #eeeeee;
+}
+
+th	
+{
+    background-color: #535153;
+    color: white;
+}
+
+td,th	
+{
+    padding: 15px;
+    text-align: center;
+}
+
+tr:nth-child(odd)
+{
+    background-color: #ffc4c4;
+}
+
+tr:hover
+{
+    background-color: #9fc5e8;
+}
+
+ul
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(202, 139, 139);
+    overflow: hidden;
+}
+
+li a
+{
+ text-decoration:none;
+ color: black;
+ display: block;
+ padding: 14px 16px;
+ text-align: center;
+}
+
+li
+{
+    float: left;
+    margin: 40px
+}
+
+li a:hover
+{
+    background-color: #c5ff52;
+    color:black;
+}
+
+
+p.size20
+{
+    font-size: 20pt;
+}
+p.size30
+{
+    font-size: 30pt;
+    color:blue;
+}
+
+div.kotak1
+{
+    width: 25%;
+    background-color: #e9dcd8;
+    height: 300px;
+    float: left;
+}
+
+div.kotak2
+{
+    width: 25%;
+    background-color: #e9dcd8;
+    height: 300px;
+    float:left;
+}
+
+div.kotak3
+{
+    width: 25%;
+    background-color: #e9dcd8;
+    height: 300px;
+    float:left;
+}
+
+div.kotak4
+{
+    width: 25%;
+    background-color: #e9dcd8;
+    height: 300px;
+    float:left;
+}
+
+div.kotak5
+{
+    width: 25%;
+    background-color: #e9dcd8;
+    height: 450px;
+    float:left;
+}
+div.kotak6
+{
+    width: 25%;
+    background-color: #e9dcd8;
+    height: 450px;
+    float:left;
+}
+div.kotak7
+{
+    width: 25%;
+    background-color: #e9dcd8;
+    height: 450px;
+    float:left;
+}
+div.kotak8
+{
+    width: 25%;
+    background-color: #e9dcd8;
+    height: 450px;
+    float:left;
+}
+div.kotak9
+{
+    width: 25%;
+    background-color: #e9dcd8;
+    height: 450px;
+    float:left;
+}
+div.kotak10
+{
+    width: 25%;
+    background-color: #e9dcd8;
+    height: 450px;
+    float:left;
+}
+div.kotak11
+{
+    width: 25%;
+    background-color: #e9dcd8;
+    height: 450px;
+    float:left;
+}
+div.kotak12
+{
+    width: 25%;
+    background-color: #e9dcd8;
+    height: 450px;
+    float:left;
+}
+div.kotak13
+{
+    width: 25%;
+    background-color: #e9dcd8;
+    height: 450px;
+    float:left;
+}
+div.kotak14
+{
+    width: 25%;
+    background-color: #e9dcd8;
+    height: 450px;
+    float:left;
+}
+div.kotak15
+{
+    width: 25%;
+    background-color: #e9dcd8;
+    height: 450px;
+    float:left;
+}
+div.kotak16
+{
+    width: 25%;
+    background-color: #e9dcd8;
+    height: 450px;
+    float:left;
+}
+div.kotak17
+{
+    width: 25%;
+    background-color: #e9dcd8;
+    height: 450px;
+    float:left;
+}
+div.kotak12
+{
+    width: 25%;
+    background-color: #e9dcd8;
+    height: 450px;
+    float:left;
+}
+div.kotak18
+{
+    width: 25%;
+    background-color: #e9dcd8;
+    height: 450px;
+    float:left;
+}
+div.kotak19
+{
+    width: 25%;
+    background-color: #e9dcd8;
+    height: 450px;
+    float:left;
+}
+div.fullwidth
+{
+    width: 100vw;
+    position:relative;
+    margin-left: -50vw;
+    margin-top: -10px;
+    left:50%;
+}
+
+div.logo
+{
+    padding-bottom: 10px;
+    width: 10%;
+}
+
+div.menu
+{
+    width: 100vw;
+    float: left;
+    position: relative;
+    margin-left: -50vw;
+    left: 50%;
+}
+
+div.slideshow
+{
+    height: 500px;
+    padding: 30px;
+}
+div.map
+{
+    height: 500px;
+    padding-top: 180px;
+}
+
+
+div.contact-kotak-1
+{
+    width: 30%;
+    
+    height: 150px;
+    float:left;
+    padding-left: 20px;
+}
+
+div.contact-kotak-2
+{
+    width: 65%;
+    
+    height: 150px;
+    float:left;
+    padding: 20px
+}
+
+div.form
+{   
+    list-style: georgian;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+p
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+h3
+{
+    font-style: italic;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+h4
+{
+    font-style: italic;
+    font-family: cursive;
+    color: white;
+}
+
+
+
+
+
+:root{
+    --main-color:#d3ad7f;
+    --black:#13131a;
+    --bg:#010103;
+    --border:.1rem solid rgba(255,255,255,.3);
+}
+
+
+*{
+    font-family: 'Roboto', sans-serif;
+    margin:0; padding:0;
+    box-sizing: border-box;
+    outline: none; border:none;
+    text-decoration: none;
+    text-transform: capitalize;
+    transition: .2s linear;
+}
+
+html{
+    font-size: 62.5%;
+    overflow-x: hidden;
+    scroll-padding-top: 9rem;
+    scroll-behavior: smooth;
+}
+
+html::-webkit-scrollbar{
+    width: .8rem;
+}
+
+html::-webkit-scrollbar-track{
+    background: transparent;
+}
+
+html::-webkit-scrollbar-thumb{
+    background: #fff;
+    border-radius: 5rem;
+}
+body{
+    background: var(--bg);
+}
+
+
+section{
+    padding:2rem 7%;
+}
+
+.heading{
+    text-align: center;
+    color:#fff;
+    text-transform: uppercase;
+    padding-bottom: 3.5rem;
+    font-size: 4rem;
+}
+
+.heading span{
+    color:var(--main-color);
+    text-transform: uppercase;
+}
+
+.review .box-container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
+    gap:1.5rem;
+}
+
+.review .box-container .box{
+    border:var(--border);
+    text-align: center;
+    padding:3rem 2rem;
+}
+
+.review .box-container .box p{
+    font-size: 1.5rem;
+    line-height: 1.8;
+    color:#ccc;
+    padding:2rem 0;
+}
+
+.review .box-container .box .user{
+    height: 7rem;
+    width: 7rem;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.review .box-container .box h3{
+    padding:1rem 0;
+    font-size: 2rem;
+    color:#fff;
+}
+
+.review .box-container .box .stars i{
+    font-size: 1.5rem;
+    color:var(--main-color);
+}
+
+.contact .row{
+    display: flex;
+    background:var(--black);
+    flex-wrap: wrap;
+    gap:1rem;
+}
+
+.contact .row .map{
+    flex:1 1 45rem;
+    width: 100%;
+    object-fit: cover;
+}
+
+.contact .row form{
+    flex:1 1 45rem;
+    padding:5rem 2rem;
+    text-align: center;
+}
+
+.contact .row form h3{
+    text-transform: uppercase;
+    font-size: 3.5rem;
+    color:#fff;
+}
+
+.contact .row form .inputBox{
+    display: flex;
+    align-items: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    background:var(--bg);
+    border:var(--border);
+}
+
+.contact .row form .inputBox span{
+    color:#fff;
+    font-size: 2rem;
+    padding-left: 2rem;
+}
+
+.contact .row form .inputBox input{
+    width: 100%;
+    padding:2rem;
+    font-size: 1.7rem;
+    color:#fff;
+    text-transform: none;
+    background:none;
+}
+
